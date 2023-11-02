@@ -38,3 +38,66 @@ The transformed data was loaded into a SQLite database for efficient management 
 
 Here are the finished results of selecting a route. This project represents a comprehensive exploration of Amazon's routing data, offering a user-friendly dashboard for efficient data analysis and visualization.
 ![result](result.png)
+
+# [PixaPets](https://github.com/melmai/pixapets)
+
+## Introduction
+
+PixaPets is a collaborative project completed as part of TCSS 506 (Practical Full Stack Development). It was developed in partnership with my classmates, Melissa Wong and Madison Stehle. This application harnesses the Petfinder API to access its extensive database, providing users with a convenient platform for discovering and adopting pets.
+
+## Features
+
+- **Pet Discovery**: PixaPets displays available pets for adoption in the user's vicinity, offering a diverse selection of potential furry companions.
+
+- **Customized Filtering**: Users can effortlessly refine their search for the perfect pet through a variety of filters, making it easier to find the ideal match.
+
+- **User Accounts**: The app allows users to create accounts, enabling them to save pets they are interested in for future reference.
+
+## Technologies Used
+
+This application is built with the following technologies:
+
+- **Python**: The primary programming language used to power the application.
+- **Flask**: Utilized for web development, routing, and data management.
+- **Bootstrap**: Ensuring a responsive and visually appealing user interface.
+- **WTForms**: Enabling user input and form handling.
+- **Postman**: Used for API testing and validation.
+- **SQLite Database**: Employed for efficient data storage and management.
+- **Amazon EC2 Server**: The application was deployed on an Amazon Elastic Compute Cloud (EC2) server for accessibility and reliability.
+
+## Screenshots
+
+Explore PixaPets through these screenshots:
+
+### Home Page
+![Home Page](Petshome.png)
+
+### Registration
+![Registration](petsregister.png)
+
+### Dogs
+![Dogs](dogs.png)
+
+### Cats
+![Cats](cats.png)
+
+
+# [Trivia Quiz](https://github.com/melmai/pixapets](https://github.com/melmai/504-trivia-quiz)https://github.com/melmai/504-trivia-quiz)
+
+## Introduction
+This project was completed as part of TCSS 504 (Software Engineering and Development Techniques) in collaboration with Melissa Wong and Madison Stehle. The project revolves around a maze featuring doors that can be unlocked by correctly answering random trivia questions. Once a user answers a question incorrectly, the corresponding door becomes permanently locked. The maze itself is randomly generated, and the trivia questions are stored in an SQLite database.
+
+Some of the features of this game include saving and loading, by pickling, and a God mode which allows users to traverse all doors freely.
+
+The objective of the game is to reach the exit, and victory is achieved by successfully navigating the maze. However, if the user makes incorrect answers that lead to permanently locked doors, the game is lost if reaching the exit is no longer possible due to these locked doors. The entire game is played through the terminal, offering a unique and challenging gaming experience.
+
+### Winning
+<iframe width="560" height="315" src="(https://www.youtube.com/watch?v=1WHbVA92ABQ&ab_channel=W)" frameborder="0" allowfullscreen></iframe>
+
+### Losing
+<iframe width="560" height="315" src="(https://www.youtube.com/watch?v=_1W1T_NjmCY&ab_channel=W)" frameborder="0" allowfullscreen></iframe>
+
+
+### Saving/Loading
+<iframe width="560" height="315" src="(https://www.youtube.com/watch?v=xcpsBa-vuiQ&ab_channel=W" frameborder="0" allowfullscreen></iframe>
+
