@@ -1,5 +1,6 @@
 # Amazon Routing Dashboard
-
+### 
+Welcome to my website.  You can find me on [LinkedIn](https://www.linkedin.com/in/william-chen-5456261a9/) and the project at [Project Link](https://github.com/wchenn/driver)
 ## Introduction
 
 Welcome to the Amazon Routing Dashboard project. This project leverages the rich dataset obtained from Amazon's 2021 Last Mile Routing Research. The dataset has been meticulously processed to extract valuable information from 10 specific routes stored in an S3 bucket. The goal is to make this data accessible for various purposes.
