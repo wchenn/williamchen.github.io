@@ -1,6 +1,6 @@
 # Amazon Routing Dashboard
 
-### 
+
 Welcome to my website.  You can find me on [LinkedIn](https://www.linkedin.com/in/william-chen-5456261a9/) and the project at [Project Link](https://github.com/wchenn/driver)
 
 ## Introduction
