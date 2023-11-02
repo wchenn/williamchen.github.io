@@ -92,8 +92,14 @@ Some of the features of this game include saving and loading, by pickling, and a
 The objective of the game is to reach the exit, and victory is achieved by successfully navigating the maze. However, if the user makes incorrect answers that lead to permanently locked doors, the game is lost if reaching the exit is no longer possible due to these locked doors. The entire game is played through the terminal, offering a unique and challenging gaming experience.
 
 ### Winning Condition
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1WHbVA92ABQ?si=eftYnl9UieJqOT4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Losing Condition
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_1W1T_NjmCY?si=se6U7LlaOCt4Lo0q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Saving/Loading
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xcpsBa-vuiQ?si=-Znz0zKsgBeS3cSy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
