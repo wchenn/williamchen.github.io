@@ -1,7 +1,7 @@
 # Project Portfolio
 
 
-Welcome to my website.  You can find me on [LinkedIn](https://www.linkedin.com/in/william-chen-5456261a9/) or email me at williamchen5667@gmail.com
+Welcome to my website.  You can find me on [LinkedIn](https://www.linkedin.com/in/william-chen-5456261a9/) or email me at williamchen5667 at gmail.com
 
 # [Amazon Routing Dashboard](https://github.com/wchenn/driver)
 
